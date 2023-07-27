@@ -7,7 +7,7 @@
 Сейчас я изучаю Markdown и в качестве закрепления навыка начал составлять описания к профилю и репозиториям.
 По мере готовности описаний я буду добавлять их сюда.
 На сегодня готовы описания к репозиториям следующих проектов:
-- [Приложение для умного дома Stets Home](https://github.com/SerjKlementyev/Stets_Home_DP);
+- [Приложение для умного дома Stets Home](https://github.com/SerjKlementyev/Stets_Home_DP/tree/229ed33b4eb78e5c0f5483a99ba6057b65037f9c);
 
 Пока без описания остаются репозитории следующих учебных проектов:
 * [Приложение для изучения иностранных языков Chatty](https://github.com/SerjKlementyev/Chatty_FirstP/tree/5687a3afa9d300ffb88eb8bf67b08ae03ba27ffc);
